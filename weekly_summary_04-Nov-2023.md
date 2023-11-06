@@ -66,7 +66,7 @@ Provided stats below are for non-empty channels only:
 ### Video NFTs
 
 - Total NFT: **3,122**
-- Weekly NFT Growth**:** **231**
+- Weekly NFT Growth: **231**
 - Weekly NFT Growth, %: **7.9%**
 - Weekly NFT sold: 4
 
