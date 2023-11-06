@@ -194,11 +194,17 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 # Rockstar of The Week
 
-[0x2bc](https://pioneerapp.xyz/#/members/2098) ([Twitter](https://x.com/nullx2bc?s=20))
+[Tariqul](https://pioneerapp.xyz/#/members/11799) ([Twitter](https://x.com/Tariqul94969218?s=20))
 
-- A dedicated Founding Member of the Joystream project.
-- Currently serving in council and excelling in multiple roles in the DAO
-- 0x2bc has been commited to establishing and implementing the DAO OKRs
+- A new proactive community member of Joystream
+- Rapidly integrated into the community, contributing actively.
+- Recently hired in HR working group and demonstrates strong commitment.
+
+[Borderless](https://pioneerapp.xyz/#/members/9411) ([Twitter](https://twitter.com/Borderless_DeFi))
+
+- Enthusiastic newcomer in Joystream project.
+- Actively engaged in DAO activities and providing valuable feedback.
+- Joined Joystream active validators and creates engaging content.
 
 # Notable Content Creators
 
