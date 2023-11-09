@@ -1,6 +1,8 @@
-## Objective: 
+## Objective 
 
-To develop a script that enhances the functionality of the existing reporting tool available at [joy-council-report.vercel.app](https://joy-council-report.vercel.app). The script should be capable of generating two types of reports: Weekly Roundup and Council Report.
+To develop a script that enhances the functionality of the existing reporting tool available at [joy-council-report.vercel.app](https://joy-council-report.vercel.app). The script should be capable of generating two types of reports: 
+- Weekly Roundup
+- Council Report
 
 
 ## Weekly Roundup
