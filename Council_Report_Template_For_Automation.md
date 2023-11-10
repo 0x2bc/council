@@ -2,6 +2,8 @@
 Notice: 
 - planned values can be ommitted
 - all values from the document below are given for example purpose and should be updated accordingly
+- current EMA30 and previous EMA30 are the values provided via imputs by the user 
+
 ```
 
 # Council Report
