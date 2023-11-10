@@ -6,6 +6,9 @@ Notice:
 
 # Weekly Roundup
 
+![https://i.imgur.com/EGhVrVY.png](https://i.imgur.com/EGhVrVY.png)
+
+
 **28 October 2023 - 04 November 2023**
 
 - Start Block:  `4,640,412`
