@@ -1,6 +1,7 @@
 ```
 Notice: 
 - all values from the document below are given for example purpose and should be updated accordingly
+- Weekly Tokens Burned value can be derived via indirect method for now (the difference between spending and minting) and later switched to direct calculation (sum up of burn events across all blocks)  
 ```
 
 # Weekly Roundup
