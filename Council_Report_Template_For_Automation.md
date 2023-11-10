@@ -61,7 +61,7 @@ Projected issuance per year is based on total spending so far interpolated to 2
 
 | Term | Minted, MJOY | Inflation |
 | --- | --- | --- |
-| 1-15 | 23.6 | 2.36% |
+| ... | 23.6 | 2.36% |
 | 16 | 2.15 | 0.22% |
 | 17 | 1.67 | 0.167% |
 | 18 | 1.76 | 0.176% |
