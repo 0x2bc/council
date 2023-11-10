@@ -29,4 +29,4 @@ Format Example: https://github.com/0x2bc/council/blob/main/Council_Report_Templa
 
 # Comment
 
-The code of Reporting Automation should be open source and have a manual how to roll out the script on our own hosting.  
+The code of the reporting automation script should goes with a manual about how to roll out the script on any hosting.  
