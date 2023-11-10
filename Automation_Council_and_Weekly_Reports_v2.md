@@ -13,7 +13,7 @@ The following adjustments should be made to the current version of the reporting
 - Users can select the interval for Weekly Report Data (already implemented).
 - Users can click a button to generate a text file. This file will contain the Weekly Report Data, compiled with GitHub markup and formatted as follows (new feature):
 
-FORMAT EXAMPLE: https://github.com/0x2bc/council/blob/main/Weekly_Roundup_Template_For_Automation.md
+Format Example: https://github.com/0x2bc/council/blob/main/Weekly_Roundup_Template_For_Automation.md
 
 
 # Council Report
@@ -25,5 +25,8 @@ The following adjustments should be made to the current version of the reporting
 - Users can fill in USD rate for the term which is called "EMA30 currnet term", "EMA30 prev term" (new feature)
 - Users can click a button to generate a text file. This file will contain the Council Report, compiled with GitHub markup and formatted as follows (new feature):
 
-FORMAT EXAMPLE: https://github.com/0x2bc/council/blob/main/Council_Report_Template_For_Automation.md
+Format Example: https://github.com/0x2bc/council/blob/main/Council_Report_Template_For_Automation.md
 
+# Comment
+
+The code of Reporting Automation should be open source and have a manual how to roll out the script on our own hosting.  
