@@ -1,3 +1,6 @@
+``` Notice: 
+- all values from the document below are given for example purpose and should be updated accordingly```
+
 ## Period
 
 **28 October 2023 - 04 November 2023**
