@@ -1,6 +1,8 @@
-``` Notice: 
+```
+Notice: 
 - planned values can be ommitted
-- all values from the document below are given for example purpose and should be updated accordingly```
+- all values from the document below are given for example purpose and should be updated accordingly
+```
 
 # Council Report
 
