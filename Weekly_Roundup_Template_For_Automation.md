@@ -81,3 +81,31 @@ Provided stats below are for non-empty channels only:
 - Weekly Membership Accounts Growth, %: **16.4%**
 
 ![https://i.imgur.com/XsgtUAB.png](https://i.imgur.com/XsgtUAB.png)
+
+# Proposals
+
+### Passed
+
+- [Refill SWG Budget](https://pioneerapp.xyz/#/proposals/preview/626)
+- [Refill DWG Budget](https://pioneerapp.xyz/#/proposals/preview/627)
+- [Refill HRWG Budget](https://pioneerapp.xyz/#/proposals/preview/625)
+- [Q4 OKR V2](https://pioneerapp.xyz/#/proposals/preview/629)
+- [Fix Reward For NFT And CRP Term20](https://pioneerapp.xyz/#/proposals/preview/622)
+- [Update MWG Budget](https://pioneerapp.xyz/#/proposals/preview/624)
+- [BWG Term 22 New Tasks](https://pioneerapp.xyz/#/proposals/preview/616)
+- [BWG Term 22 Budget](https://pioneerapp.xyz/#/proposals/preview/615)
+- [Payoff For Test Treasury Refill](https://pioneerapp.xyz/#/proposals/preview/620)
+- [Term 22 Council Plan](https://pioneerapp.xyz/#/proposals/preview/623)
+- ****[G****amification Of Rockstar Of The Week](https://pioneerapp.xyz/#/proposals/preview/618)
+- [Joystream DAO Roadmap - V1](https://pioneerapp.xyz/#/proposals/preview/621)
+- [Update FWG Budget](https://pioneerapp.xyz/#/proposals/preview/619)
+- [Discord: Update Rules V2](https://pioneerapp.xyz/#/proposals/preview/617)
+- [Update СWG Budget](https://pioneerapp.xyz/#/proposals/preview/613)
+- [Membership Budget - 250k](https://pioneerapp.xyz/#/proposals/preview/614)
+- [DWG Term 21 Budget](https://pioneerapp.xyz/#/proposals/preview/612)
+
+### Deciding
+
+- [BWG Term 22 Budget V2](https://pioneerapp.xyz/#/proposals/preview/630)
+- [Refill Apps Budget](https://pioneerapp.xyz/#/proposals/preview/628)
+
