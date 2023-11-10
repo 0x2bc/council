@@ -96,7 +96,6 @@ Provided stats below are for non-empty channels only:
 - [BWG Term 22 Budget](https://pioneerapp.xyz/#/proposals/preview/615)
 - [Payoff For Test Treasury Refill](https://pioneerapp.xyz/#/proposals/preview/620)
 - [Term 22 Council Plan](https://pioneerapp.xyz/#/proposals/preview/623)
-- ****[G****amification Of Rockstar Of The Week](https://pioneerapp.xyz/#/proposals/preview/618)
 - [Joystream DAO Roadmap - V1](https://pioneerapp.xyz/#/proposals/preview/621)
 - [Update FWG Budget](https://pioneerapp.xyz/#/proposals/preview/619)
 - [Discord: Update Rules V2](https://pioneerapp.xyz/#/proposals/preview/617)
