@@ -195,6 +195,3 @@ EMA30 (prev term)= 0.025
 **Chart 7.8. WGs’ spending (current term VS prev term), USDT**
 
 ![https://i.imgur.com/3E3ukWG.png](https://i.imgur.com/3E3ukWG.png)
-
-
-## ------------- FORMAT EXAMPLE END -------------
