@@ -150,7 +150,7 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 # Council Election
 
-[Election round 2](https://pioneerapp.xyz/#/election)3
+[Election round 23](https://pioneerapp.xyz/#/election)
 
 - Election stage: Revealing Period
 - Candidates number: 5
@@ -221,3 +221,9 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 - **How you can earn $JOY as a creator:** [Join YPP |](https://gleev.xyz/ypp) [Sell your videos as NFTs](https://www.joystream.org/ru/#video-nfts) | [Set up your creator token](https://www.joystream.org/ru/#creator-tokens)
 - **How you can earn $JOY as a DAO participant:** [Join a Working Group](https://pioneerapp.xyz/#/working-groups/openings) | [Validate and Stake](https://handbook.joystream.org/system/nomination) | [Opportunities](https://discord.com/channels/811216481340751934/1119240044830527529)
+
+### Disclaimer
+
+All forward looking statements,    estimates and commitments found in this blog post should be understood    to be highly uncertain, not binding and for which no guarantees of    accuracy or reliability can be provided. To the fullest extent   permitted  by law, in no event shall Joystream, Jsgenesis or our   affiliates, or  any of our directors, employees, contractors, service   providers or  agents have any liability whatsoever to any person for  any  direct or  indirect loss, liability, cost, claim, expense or damage  of  any kind,  whether in contract or in tort, including negligence, or   otherwise,  arising out of or related to the use of all or part of  this  post, or any  links to third party websites.
+
+
