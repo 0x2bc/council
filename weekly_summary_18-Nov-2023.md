@@ -86,7 +86,7 @@ Provided stats below are for non-empty channels only:
 
 Channels:
 
-- Total sign up channels **14.36K**  ****(**+3.2K** channels)
+- Total sign up channels **14.36K** (**+3.2K** channels)
 - Total  YT subscribers ~**56.7M** ⭐ (**+6.7M**)
 
 Videos:
