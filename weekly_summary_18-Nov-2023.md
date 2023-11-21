@@ -80,20 +80,20 @@ Provided stats below are for non-empty channels only:
 
 ![https://i.imgur.com/cX39dVb.png](https://i.imgur.com/cX39dVb.png)
 
-# YouTube Partner Program [NOT READY]
+# YouTube Partner Program
 
-- Total payouts: **7.1 JOY** (**+0.4M JOY**)
+- Total payouts: **7.3M JOY** (**+0.2M JOY**)
 
 Channels:
 
-- Total sign up channels **11.2k**  (**+3.2k** channels)
-- Total  YT subscribers ~**50 mln** (**+6.5 mln)**
+- Total sign up channels **14.36K**  ****(**+3.2K** channels)
+- Total  YT subscribers ~**56.7M** ⭐ (**+6.7M**)
 
 Videos:
 
-- New synced videos: **3,063**
+- New synced videos: **437**
 
-More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-Payout-ending-14-11-e3987939671d497bbbfe1e7fcd864428?pvs=21)
+More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-Payout-ending-21-11-ae775dc333604eeb9db6894b5a7e9d5b?pvs=21)
 
 [➡️ Join YPP](https://gleev.xyz/ypp)
 
