@@ -4,8 +4,9 @@
 
 ## Period
 
-**11 November 2023 - 18 November 2023
--** Start Block: `4,842,014`
+**11 November 2023 - 18 November 2023**
+
+- Start Block: `4,842,014`
 - End Block: `4,942,814`
 
 # Tokenomics
