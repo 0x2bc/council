@@ -85,7 +85,7 @@ Provided stats below are for non-empty channels only:
 
 Channels:
 
-- Total sign up channels **11.2k**  ****(**+3.2k** channels)
+- Total sign up channels **11.2k**  (**+3.2k** channels)
 - Total  YT subscribers ~**50 mln** (**+6.5 mln)**
 
 Videos:
@@ -165,7 +165,7 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 **Not passed**
 
 - [Update СWG Budget](https://pioneerapp.xyz/#/proposals/preview/641)
-- ****[R****eward For NFT And CRP Term20](https://pioneerapp.xyz/#/proposals/preview/639)
+- [Reward For NFT And CRP Term20](https://pioneerapp.xyz/#/proposals/preview/639)
 
 # Rockstars of The Week **- HR**
 
