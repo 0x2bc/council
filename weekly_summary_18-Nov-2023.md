@@ -158,7 +158,7 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 **Passed**
 
 - [Reward For NFT And CRP Term21](https://pioneerapp.xyz/#/proposals/preview/640)
-- [Update СWG Budget \Fix EMA30\](https://pioneerapp.xyz/#/proposals/preview/645)
+- [Update СWG Budget Fix EMA30](https://pioneerapp.xyz/#/proposals/preview/645)
 - [Update MWG Budget](https://pioneerapp.xyz/#/proposals/preview/642)
 - [Update Forum Group Budget](https://pioneerapp.xyz/#/proposals/preview/643)
 - [Membership WG Refill - 250k](https://pioneerapp.xyz/#/proposals/preview/644)
