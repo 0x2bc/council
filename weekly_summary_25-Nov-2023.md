@@ -97,7 +97,7 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 [➡️ Join YPP](https://gleev.xyz/ypp)
 
-# **Product Releases - HR**
+# Product Releases 
 
 - [Joystream/storage-node:3.8.1](https://github.com/Joystream/joystream/blob/master/storage-node/CHANGELOG.md#381)
 - [Atlas and Gleev were updated to `v4.13.4`.](https://github.com/Joystream/atlas/releases/tag/v4.13.3)
@@ -108,20 +108,20 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 - **Q4 OKRs** [https://pioneerapp.xyz/#/proposals/preview/552](https://pioneerapp.xyz/#/proposals/preview/552)
 - **Roadmap** [https://pioneerapp.xyz/#/proposals/preview/621](https://pioneerapp.xyz/#/proposals/preview/621)
 
-# Upcoming Events  **- HR**
+# Upcoming Events
 
 - DAO Daily Standup: Everyday From Monday-Friday at 9:30 am UTC
 - [Network Release Call](https://discord.gg/WfeSs5s9?event=1167689410368774144)
 - [Weekly GLEEV/YPP call](https://discord.gg/72yk7sw9?event=1178674286651773038)
 - [24th Council Handover Meeting](https://discord.gg/72yk7sw9?event=1178722906927276063)
 
-# Recent Events **- HR**
+# Recent Events 
 
 - DAO Daily Standup: Everyday From Monday-Friday
 - [Network Release Call](https://discord.gg/FupqWKce?event=1167688725686403213)
 - [Weekly Gleev/YPP Call](https://discord.gg/6jk6WX3c?event=1163845623569711134)
 
-# Forum **- HR**
+# Forum
 
 **Hot Topics**
 
@@ -134,7 +134,7 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 - **[Council Term 23](https://pioneerapp.xyz/#/forum/thread/704)**
 
-# **Open Positions - HR**
+# **Open Positions
 
 - [Gateway Operator](https://pioneerapp.xyz/#/working-groups/openings/appWorkingGroup-3)
 - [DWG Operator (Waiting List)](https://pioneerapp.xyz/#/working-groups/openings/distributionWorkingGroup-18)
@@ -143,14 +143,14 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 - [Storage WG Worker Needed](https://pioneerapp.xyz/#/working-groups/openings/storageWorkingGroup-27)
 - [Joystream Dev](https://pioneerapp.xyz/#/working-groups/openings/operationsWorkingGroupAlpha-34)
 
-# Council Election **- HR**
+# Council Election 
 
 [Election round 2](https://pioneerapp.xyz/#/election)4
 
 - Election stage: Voting Period
 - Candidates number: 7
 
-# Proposals **- HR**
+# Proposals
 
 **Passed**
 
@@ -175,7 +175,7 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 - **[BWG Term 23 New Tasks](https://pioneerapp.xyz/#/proposals/preview/647)**
 
-# Rockstars of The Week **- HR**
+# Rockstars of The Week
 
 [Magda](https://pioneerapp.xyz/#/members/7238)
 
@@ -189,7 +189,7 @@ Spat_sochi ([Twitter](https://x.com/spat_sochi?t=HhdcurUMJAK1be01COoBHA&s=09))
 - Serves as Coordinator in the HR working group with utmost efficiency
 - Provides immense community support and active participation in the DAO
 
-# Notable Content Creators **- HR**
+# Notable Content Creators 
 
 [Luisardo](https://gleev.xyz/channel/46563) ([Twitter](https://twitter.com/luisardito666))
 
