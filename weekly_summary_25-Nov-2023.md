@@ -80,13 +80,13 @@ Provided stats below are for non-empty channels only:
 
 ![https://i.imgur.com/2lnrWDM.png](https://i.imgur.com/2lnrWDM.png)
 
-# YouTube Partner Program - 0x2bc
+# YouTube Partner Program [NOT READY]
 
 - Total payouts: **7.3M JOY** (**+0.2M JOY**)
 
 Channels:
 
-- Total sign up channels **14.36K**  ****(**+3.2K** channels)
+- Total sign up channels **14.36K**  (**+3.2K** channels)
 - Total  YT subscribers ~**56.7M** ⭐ (**+6.7M**)
 
 Videos:
