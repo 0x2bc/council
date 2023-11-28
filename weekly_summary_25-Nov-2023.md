@@ -4,8 +4,9 @@
 
 ![https://i.imgur.com/q43ltg2.png](https://i.imgur.com/q43ltg2.png)
 
-**18 November 2023 - 25 November 2023
--** Start Block: `4,942,815`
+**18 November 2023 - 25 November 2023**
+
+- Start Block: `4,942,815`
 - End Block: `5,043,615`
 
 # Tokenomics
@@ -65,7 +66,7 @@ Provided stats below are for non-empty channels only:
 ### Video NFTs
 
 - Total NFT: **3,806**
-- Weekly NFT Growth**:** **177**
+- Weekly NFT Growth: **177**
 - Weekly NFT Growth, %: **4.88%**
 - Weekly NFT sold: **1**
 
