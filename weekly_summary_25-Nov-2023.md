@@ -134,7 +134,7 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 
 - **[Council Term 23](https://pioneerapp.xyz/#/forum/thread/704)**
 
-# **Open Positions
+# Open Positions
 
 - [Gateway Operator](https://pioneerapp.xyz/#/working-groups/openings/appWorkingGroup-3)
 - [DWG Operator (Waiting List)](https://pioneerapp.xyz/#/working-groups/openings/distributionWorkingGroup-18)
