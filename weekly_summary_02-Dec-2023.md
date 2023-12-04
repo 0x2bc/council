@@ -4,8 +4,9 @@
 
 ![https://i.imgur.com/lJ17s2i.png](https://i.imgur.com/lJ17s2i.png)
 
-**25 November 2023 - 02 Decemeber 2023
--** Start Block: `5,043,616`
+**25 November 2023 - 02 Decemeber 2023**
+
+- Start Block: `5,043,616`
 - End Block: `5,144,416`
 
 # Tokenomics
