@@ -17,11 +17,6 @@
 - Weekly Tokens Minted: **1,629,804 JOY**
 - Weekly Tokens Burned: **(-906,843) JOY**
 
-MEXC exchange wallet:
-
-- Balance:  **104,486,469 JOY**
-- Weekly Balance change: **880,621 JOY**
-
 DAO Spending:
 
 - Start Issuance: **1,038,111,802** **JOY**
