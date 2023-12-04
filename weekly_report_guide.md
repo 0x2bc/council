@@ -1,6 +1,8 @@
 # Weekly Report Guide
 
-### Set Up Draft Report
+This guide outlines the steps for creating and publishing a weekly report for Joystream. It includes instructions for drafting the report, updating images and data, and finalizing the publication.
+
+### Create Report Page
 
 - Create a GitHub Page. Use the following title format: `weekly_summary_02-Dec-2023.md`, where the mentioned date is the final date of the report period.
 - (Optional) Copy and paste the content from the previous weekly report to the new report page for simplicity.
@@ -32,3 +34,8 @@
 
 - Obtain clear approval from the Council for the publishing of the Weekly Report.
 - Provide the finalized weekly report to the MWG Leaf for posting on the Joystream Blog.
+
+# Resources
+
+- [Published Report Example on Joystream Blog](https://blog.joystream.org/weekly-roundup-16/)
+- [Published Report Example on GitHub](https://github.com/0x2bc/council/blob/main/weekly_summary_18-Nov-2023.md)
