@@ -15,7 +15,7 @@
 - JOY inflation (since mainnet launch): **3.97%**
 - Circulating supply:  **759,110,374 JOY**
 - Weekly Tokens Minted: **1,629,804 JOY**
-- Weekly Tokens Burned: **(-906,843) JOY**
+- Weekly Tokens Burned: **(245,300) JOY**
 
 DAO Spending:
 
@@ -25,12 +25,12 @@ DAO Spending:
 
 *including:*
 
-- Council rewards: **116,655** **JOY**
-- WG spent: **350,365** **JOY**
-- Funding proposals: **0** **JOY**
-- Creator payout: **9,700** **JOY**
+- Council rewards: **116,655 JOY**
+- WG spent: **1,502,508 JOY**
+- Funding proposals: **0 JOY**
+- Creator payout: **9,700 JOY**
 - Validator rewards: **246,241 JOY**
-- Fees and token burn: **(-906,843) JOY**
+- Fees and token burn: **(245,300) JOY**
 
 # **Content**
 
