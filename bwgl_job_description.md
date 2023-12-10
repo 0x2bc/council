@@ -1,4 +1,4 @@
-# Builders WG Lead [Job Description]
+# Builders WG Lead: Job Description
 
 ### **Job Overview**
 
