@@ -23,7 +23,6 @@ As the BWG Lead, you represent the highest level of technical leadership within 
 - Manage the development of major projects, including the ETH bridge and other one-time initiatives.
 - Drive performance and quality-focused technical strategies.
 - **Engage in direct coding and development, contributing hands-on to the team's efforts.**
-- **This is a full time work**
 - Work with cross-functional teams to gather feedback and drive technological improvements.
 - Implement and uphold software engineering best practices, **including methodologies like SCRUM or others optimally suited to BWG processes**, to guarantee the delivery of high-quality outputs.
 - Implement and use software tools for BWG task tracking.
@@ -56,6 +55,9 @@ As the BWG Lead, you represent the highest level of technical leadership within 
 - High adaptability and strong problem-solving skills.
 - Independent, self-starter with the ability to meet objectives and deadlines.
 - Strong verbal and written communication skills.
+**- This is a full-time job.**
+- Remote working conditions.
+
 
 ### **Compensation**
 
