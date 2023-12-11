@@ -37,7 +37,7 @@ As the BWG Lead, you represent the highest level of technical leadership within 
 
 ### **Requirements**
 
-- Extensive experience with Web3 and Distributed systems.
+- Extensive experience with Web3.
 - Previous experience as a CTO, ideally in a startup or fast-growing tech company, or as a tech lead managing at least 3 subordinates.
 - Proven ability in building and scaling technical teams.
 - Strong leadership and communication skills.
