@@ -33,7 +33,6 @@ As the BWG Lead, you represent the highest level of technical leadership within 
 - Handle administrative responsibilities, including reporting, moderating WG channels, and managing the WG Notion page.
 - Manage the budget and monitor worker performance, ensuring optimal resource utilization.
 - Make personnel decisions, including the dismissal of non-responsive workers who do not meet performance standards.
-- Offer guidance and training to WG workers, fostering a culture of continuous learning and improvement.
 
 ### **Requirements**
 
