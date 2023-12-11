@@ -61,7 +61,7 @@ As the BWG Lead, you represent the highest level of technical leadership within 
 
 ### **Compensation**
 
-- BWG Lead salary: 6,500 USDT/month in JOY equivalent
-- BWG budget (incl Lead salary): 15,000 USDT/month in JOY equivalent (this amount is subject to increase at the Council's discretion, but it will not be decreased below this established figure)
+- BWG Lead salary: _____ USDT/month in JOY equivalent
+- BWG budget (incl Lead salary): _____ USDT/month in JOY equivalent (this amount is subject to increase at the Council's discretion, but it will not be decreased below this established figure)
 
 *The Council will not accept every BWG task as they did before. Instead, they will focus on approving the overall course of action for the BWG.*
