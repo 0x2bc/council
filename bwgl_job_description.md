@@ -26,7 +26,8 @@ As the BWG Lead, you represent the highest level of technical leadership within 
 - **This is a full time work**
 - Work with cross-functional teams to gather feedback and drive technological improvements.
 - Implement and uphold software engineering best practices, **including methodologies like SCRUM or others optimally suited to BWG processes**, to guarantee the delivery of high-quality outputs.
-- Provide leadership, mentorship, and training to the engineering team, enhancing skills and knowledge.
+- Implement and use software tools for BWG task tracking.
+- Provide leadership and mentorship  to the engineering team, enhancing skills and knowledge.
 - Stay informed about blockchain technology trends to ensure Joystream DAO remains innovative and competitive.
 - Ensure every team member has meaningful and engaging tasks, promoting productivity and satisfaction.
 - Handle administrative responsibilities, including reporting, moderating WG channels, and managing the WG Notion page.
