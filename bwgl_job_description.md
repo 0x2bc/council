@@ -55,7 +55,7 @@ As the BWG Lead, you represent the highest level of technical leadership within 
 - High adaptability and strong problem-solving skills.
 - Independent, self-starter with the ability to meet objectives and deadlines.
 - Strong verbal and written communication skills.
-**- This is a full-time job.**
+- **This is a full-time job.**
 - Remote working conditions.
 
 
