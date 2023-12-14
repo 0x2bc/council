@@ -42,7 +42,6 @@ This role includes both coding and managing the tech team.
 - Strong leadership and communication skills
 - Track record of delivering successful technology products
 - Knowledge of blockchain and decentralized technologies
-- Minimum 1 years of experience in Rust/Substrate
 - Minimum 2 years of relevant experience in software development
 - Minimum 2 years of relevant experience in management teams
 - Experience working with Query Nodes and Subsquid
