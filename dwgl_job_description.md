@@ -3,14 +3,13 @@
 - **Job Title:** Distribution WG Lead
 - **Location:** Remote
 - **Employment Type:** Part-Time
+- **Reporting To:** Council
 
 ### **Job Overview**
 
 As the DWG Lead, you will oversee the DAO's distribution infrastructure, ensuring high performance, reliability, and scalability to meet the evolving needs of the Joystream platform. Your role involves leading a team of skilled engineers and collaborating closely with the Storage WG and Builders WG teams to optimize content delivery and enhance user experience.
 
 In this role, you will collaborate closely with the Council, WG Leads, and the JSG team to maintain and enhance a robust and scalable distribution infrastructure.
-
-Reporting directly to the Joystream Council, you will be responsible for formulating the technical vision, creating the engineering roadmap in the fireld of CDN.
 
 This role includes both coding and managing the tech team.
 
