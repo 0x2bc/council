@@ -1,26 +1,59 @@
-Responsibilities
+# Untitled
 
-Maximizing Distribution group scores (will be provided by the Council)
-Preparing reports
-Moderating the #distributors channel.
-Updating DWG Notion page
-Managing budget
-Tracking workers performance
-Making sure that all worker nodes operational
-Making sure that playback at https://gleev.xyz/ goes smoothly, without error from the distributor side
-Monitoring required changes for the distributor environment and ensure that all workers apply them
-Monitoring the efficiency of worker nodes
-Designing and keeping the structure of the distributor network across the world - in different regions of the globe
-Helping new and existing members if they experience any issues with running nodes
-Automating routine tasks using scripts and automated tools that help to increase the effectiveness of the work
-Mentoring and train Distribution WG members
-Requirements
+# DWGL: Job Description
 
-Distribution Lead / Deputy / Worker experience is preferred
-High availability: First few days after a Lead is hired will require high availability and lots of work
-Experience in managing team
-Strong communication skills
-Proficiency in English
-Good Linux and Docker knowledge
-Experienced with how to setup and maintain blockchain nodes
-Skills: Linux, devops, bash, Docker/Docker-compose, nginx or Caddy, GraphQl, (nice to have prometheus/Grafana)
+**Job Title:** Distribution WG Lead
+
+**Location:** Remote
+
+**Employment Type:** Part-Time
+
+### **Job Overview**
+
+As the DWG Lead, you will oversee the DAO's distribution infrastructure, ensuring high performance, reliability, and scalability to meet the evolving needs of the Joystream platform. Your role involves leading a team of skilled engineers and collaborating closely with the Storage WG and Builders WG teams to optimize content delivery and enhance user experience.
+
+In this role, you will collaborate closely with the Council, WG Leads, and the JSG team to maintain and enhance a robust and scalable distribution infrastructure.
+
+Reporting directly to the Joystream Council, you will be responsible for formulating the technical vision, creating the engineering roadmap in the fireld of CDN.
+
+This role includes both coding and managing the tech team.
+
+### **Responsibilities**
+
+- Oversee the maintenance and enhancement of the current CDN infrastructure
+- Develop and maintain a robust logging system to support operational efficiency
+- Advance automated CDN testing solutions for consistent performance and reliability
+- Actively contribute to the development and optimization of the Argus module
+- Build and nurture a strong technical team
+- Collaborate closely with the Council, WG Leads, and the JSG team to create and maintain a scalable, secure video infrastructure.
+- Drive performance and quality-focused technical strategies.
+- Engage in direct coding and development, contributing hands-on to the team's efforts
+- Implement and uphold DevOps best practices to guarantee the delivery of high-quality outputs
+- Stay informed about technology trends to ensure Joystream DAO remains innovative and competitive
+- Promote productivity and efficiency within DWG team
+- Handle reporting, payroll, and overall communication between the Council and Distribution WG, as well as within the Distribution WG
+- Manage the DWG Notion page
+- Manage the budget and monitor worker performance, ensuring optimal resource utilization
+- Make personnel decisions, including the dismissal of non-responsive workers who do not meet performance standards
+
+### **Requirements**
+
+- Extensive experience with Web3
+- Previous experience as senior tech manager or tech lead, ideally in a startup or fast-growing tech company
+- Proven ability in building and scaling technical teams
+- Strong leadership and communication skills
+- Track record of delivering successful technology products
+- Knowledge of blockchain and decentralized technologies
+- Minimum 1 years of experience in Rust/Substrate
+- Minimum 2 years of relevant experience in software development
+- Minimum 2 years of relevant experience in management teams
+- Experience working with Query Nodes and Subsquid
+- Familiarity with security and audit standards
+- Degree in Engineering, Computer Science, or Information Technology
+- Familiarity with DevOps tools like Docker, Kubernetes (is a plus)
+- Experience with nginx or Caddy (is a plus)
+- Experience as Distribution Lead, Deputy, or Worker (is a plus)
+- Proficiency in Unix/Linux operating systems and shell tools
+- High adaptability and strong problem-solving skills
+- Independent, self-starter with the ability to meet objectives and deadlines
+- Strong verbal and written communication skills
