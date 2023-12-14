@@ -33,20 +33,20 @@ This role includes both coding and managing the tech team.
 
 ### **Requirements**
 
-- Extensive experience with Web3
-- Previous experience as senior tech manager or tech lead, ideally in a startup or fast-growing tech company
+- Extensive experience in CDN technologies, digital infrastructure, and distributed technologies
+- Previous experience as a senior tech manager or tech lead, ideally in a startup or fast-growing tech company
 - Proven ability in building and scaling technical teams
-- Strong leadership and communication skills
-- Track record of delivering successful technology products
-- Knowledge of blockchain and decentralized technologies
 - Minimum 2 years of relevant experience in software development
 - Minimum 2 years of relevant experience in management teams
-- Experience working with Query Nodes and Subsquid
-- Familiarity with security and audit standards
-- Degree in Engineering, Computer Science, or Information Technology
-- Familiarity with DevOps tools like Docker, Kubernetes (is a plus)
+- Hands-on experience with DevOps methodologies
+- Familiarity with DevOps tools like Docker
 - Experience with nginx or Caddy (is a plus)
+- Experience working with Query Nodes and Subsquid (is a plus)
 - Experience as Distribution Lead, Deputy, or Worker (is a plus)
+- Track record of delivering successful technology products
+- Strong leadership and communication skills
+- Degree in Engineering, Computer Science, or Information Technology
+- Familiarity with security and audit standards
 - Proficiency in Unix/Linux operating systems and shell tools
 - High adaptability and strong problem-solving skills
 - Independent, self-starter with the ability to meet objectives and deadlines
