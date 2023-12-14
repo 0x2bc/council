@@ -1,10 +1,8 @@
 # DWGL: Job Description
 
-**Job Title:** Distribution WG Lead
-
-**Location:** Remote
-
-**Employment Type:** Part-Time
+- **Job Title:** Distribution WG Lead
+- **Location:** Remote
+- **Employment Type:** Part-Time
 
 ### **Job Overview**
 
