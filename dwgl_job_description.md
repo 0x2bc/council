@@ -1,5 +1,3 @@
-# Untitled
-
 # DWGL: Job Description
 
 **Job Title:** Distribution WG Lead
