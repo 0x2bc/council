@@ -2,34 +2,33 @@
 # Council Report
 
 - Dates: 29 November 2023 → 14 December 2023
-- Council Term: 24
+- Council Term: 0000000o
 - Start block: 5,097,623  0x36010a102872aa39bbf488b0fb6fcb169ef03d5cea078ed63c460715966b23b7
 - End block: 5,313,624 0x0895d8fbd45053d0627d910e166a7791eb838d666ce957e2ec6af7163f9e52c8
 
 ## 1. Composition
 
+- **vikan#4315**, 8%
 - **0x2bc**, 0%
+- **marat_mu**, 4%
 - **Mayor Tee**, 11%
-- **Hanzo Hazashi**, 9%
 - **0x2bc**, 16%
 - **Jenny**, 29%
+- **Hanzo Hazashi**, 9%
 - **songoku**, 4%
-- **vikan#4315**, 8%
-- **marat_mu**, 4%
 
 
 Election results: https://pioneerapp.xyz/#/election/past-elections/0000000o
 
 ## 2. General stats
 
-- Channels:  **1,315** (total **16,714**)
-- Videos: **118,452** (total **695,581**)
-- Storage Used: **7,048.03** GB (total **49,328.79** GB)
+- Channels:  **1,315** (total **16,713**)
+- Videos: **118,452** (total **695,578**)
 - Forum threads: **26** (total **743**)
 - Forum posts: **163** (total **5,663**)
 - Proposals: **25** (total **688**)
 - Memberships: **2,240** (total **39,128**)
-- EMA30: **0 USDT**
+- EMA30: **0.039 USDT**
 
 ## 6. Budget
 
@@ -89,13 +88,13 @@ Year inflation
 
 | Item | Total spending (planned), JOY | Total spending (actual), JOY | Total spending (planned), USDT | Total spending (actual), USDT |
 | --- | --- | --- | --- | --- |
-| Council rewards |  | 249,975 |  | 0 |
-| WG spending |  | 11,004,630 |  | 0 |
+| Council rewards |  | 249,975 |  | 9,750 |
+| WG spending |  | 11,004,630 |  | 429,181 |
 | Funding proposals |  | 0 |  | 0 |
-| Creator payout rewards |  | 20,200 |  | 0 |
-| Validator rewards |  | 529,221 |  | 0 |
-| Fees and commissions |  | (10,137,956) | 0 | (0) |
-| Grand Total |  | 11,804,026 |  | 0 |
+| Creator payout rewards |  | 20,200 |  | 788 |
+| Validator rewards |  | 529,221 |  | 20,640 |
+| Fees and commissions |  | (10,137,956) | 0 | (395,381) |
+| Grand Total |  | 11,804,026 |  | 460,358 |
 
 **Table 6.3. WGs’ Workers**
 
@@ -131,16 +130,16 @@ Year inflation
 
 | Working group | Start budget, USDT | Refilled, USDT | Spending (planned), USDT | Spending (actual), USDT | Workers rewards, USDT | Lead rewards, USDT | End budget, USDT |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Builders | 0 | 0 |  | 0 | 0 | 0 | 0 |
-| Storage | 0 | 0 |  | 0 | 0 | 0 | 0 |
-| Distribution | 0 | 0 |  | 0 | 0 | 0 | 0 |
-| Forum | 0 | 0 |  | 0 | 0 | 0 | 0 |
-| Apps | 0 | 0 |  | 0 | 0 | 0 | 0 |
-| Content | 0 | 0 |  | 0 | 0 | 0 | 0 |
-| HR | 0 | 0 |  | 0 | 0 | 0 | 0 |
-| Membership | 0 | 0 |  | 0 | 0 | 0 | 0 |
-| Marketing | 0 | 0 |  | 0 | 0 | 0 | 0 |
-| Total | 0 | 0 |  | 0 | 0 | 0 | 0 |
+| Builders | 340 | 7,380 |  | 6,638 | 5,781 | 858 | 1,083 |
+| Storage | 1,598 | 3,900 |  | 5,250 | 3,384 | 1,867 | 249 |
+| Distribution | 186 | 3,510 |  | 3,498 | 1,762 | 1,737 | 199 |
+| Forum | 45 | 590 |  | 591 | 1 | 591 | 44 |
+| Apps | 0 | 3,666 |  | 3,101 | 1,337 | 1,764 | 566 |
+| Content | 298 | 5,382 |  | 5,484 | 3,880 | 1,604 | 197 |
+| HR | 793 | 2,808 |  | 3,443 | 1,835 | 1,609 | 92 |
+| Membership | 6,325 | 3,900 |  | 789 | 0 | 789 | 3,587 |
+| Marketing | 334 | 395,850 |  | 4,003 | 2,501 | 1,503 | 1,709 |
+| Total | 9,919 | 426,986 |  | 32,797 | 20,481 | 12,322 | 7,726 |
 
 ### **Proposals**
 
@@ -150,63 +149,63 @@ Year inflation
 
 ### O**verall Spending**
 
-ema30 (current term)= 0
+ema30 (current term)= 0.039
 
-ema30 (prev term)= 0
+ema30 (prev term)= 0.029
 
 | Item | Spending (previous term), JOY | Spending (current term), JOY | Spending (previous term), USDT | Spending (current term), USDT |
 | --- | --- | --- | --- | --- |
-| Council rewards | 249,975 | 249,975 | 0 | 0 |
-| WG filled | 1,931,519 | 11,004,630 | 0 | 0 |
-| Funding proposals | 166,666 | 0 | 0 | 0 |
-| Creator payout rewards | 26,000 | 20,200 | 0 | 0 |
-| Validator rewards | 531,478 | 529,221 | 0 | 0 |
-| Fees and commissions |  | 10,137,956 | 0 | 0 |
-| Grand Total | 2,905,638 | 11,804,026 | 0 | 0 |
+| Council rewards | 249,975 | 249,975 | 7,250 | 9,750 |
+| WG filled | 1,931,519 | 11,004,630 | 56,015 | 429,181 |
+| Funding proposals | 166,666 | 0 | 4,834 | 0 |
+| Creator payout rewards | 26,000 | 20,200 | 754 | 788 |
+| Validator rewards | 531,478 | 529,221 | 15,413 | 20,640 |
+| Fees and commissions |  | 10,137,956 | 0 | 395,381 |
+| Grand Total | 2,905,638 | 11,804,026 | 84,264 | 460,358 |
 
 **Chart 7.1. Overall spending for current term, JOY**
 
 **Chart 7.2. Overall spending for current term, USDT**
 
-![https://i.imgur.com/wf74Wt0.png](https://i.imgur.com/wf74Wt0.png)
+![https://i.imgur.com/kiCOjBe.png](https://i.imgur.com/kiCOjBe.png)
 
 **Chart 7.3. Overall spending (current term VS prev term), JOY**
 
-![https://i.imgur.com/TozSv1d.png](https://i.imgur.com/TozSv1d.png)
+![https://i.imgur.com/KLUc2QI.png](https://i.imgur.com/KLUc2QI.png)
 
 **Chart 7.4. Overall spending (current term VS prev term), USDT**
 
-![https://i.imgur.com/je0fVPH.png](https://i.imgur.com/je0fVPH.png)
+![https://i.imgur.com/EnatN3R.png](https://i.imgur.com/EnatN3R.png)
 
 ### **WGs’ Spending**
 
-EMA30 (current term)= 0
+EMA30 (current term)= 0.039
 
-EMA30 (prev term)= 0
+EMA30 (prev term)= 0.029
 
 | Working group | Spending (previous term), JOY | Spending (current term), JOY | Spending (previous term), USDT | Spending (current term), USDT |
 | --- | --- | --- | --- | --- |
-| Builders | 131,554 | 170,183 | 0 | 0 |
-| Storage | 125,504 | 134,588 | 0 | 0 |
-| Distribution | 105,089 | 89,674 | 0 | 0 |
-| Forum | 15,151 | 15,144 | 0 | 0 |
-| Apps | 0 | 79,491 | 0 | 0 |
-| Content | 163,366 | 140,588 | 0 | 0 |
-| HR | 87,745 | 89,993 | 0 | 0 |
-| Membership | 361,660 | 170,216 | 0 | 0 |
-| Marketing | 941,450 | 10,114,753 | 0 | 0 |
-| Total | 1,931,519 | 11,004,630| 0 | 0 |
+| Builders | 131,554 | 170,183 | 3,816 | 6,638 |
+| Storage | 125,504 | 134,588 | 3,640 | 5,249 |
+| Distribution | 105,089 | 89,674 | 3,048 | 3,498 |
+| Forum | 15,151 | 15,144 | 440 | 591 |
+| Apps | 0 | 79,491 | 0 | 3,101 |
+| Content | 163,366 | 140,588 | 4,738 | 5,483 |
+| HR | 87,745 | 89,993 | 2,545 | 3,510 |
+| Membership | 361,660 | 170,216 | 10,489 | 6,639 |
+| Marketing | 941,450 | 10,114,753 | 27,303 | 394,476 |
+| Total | 1,931,519 | 11,004,630| 56,019 | 429,185 |
 
 **Chart 7.5. WGs’ spending for current term, JOY**
 
 **Chart 7.6. WGs’ spending for current term, USDT**
 
-![https://i.imgur.com/Y6lwO84.png](https://i.imgur.com/Y6lwO84.png)
+![https://i.imgur.com/IQg5jYt.png](https://i.imgur.com/IQg5jYt.png)
 
 **Chart 7.7. WGs’ spending (current term VS prev term), JOY**
 
-![https://i.imgur.com/lEvmp7g.png](https://i.imgur.com/lEvmp7g.png)
+![https://i.imgur.com/VJ7QwdA.png](https://i.imgur.com/VJ7QwdA.png)
 
 **Chart 7.8. WGs’ spending (current term VS prev term), USDT**
 
-![https://i.imgur.com/uJdyYG2.png](https://i.imgur.com/uJdyYG2.png)
+![https://i.imgur.com/WiKQWsk.png](https://i.imgur.com/WiKQWsk.png)
