@@ -1,6 +1,6 @@
 # Weekly Roundup #3
 
-![https://i.imgur.com/vJBHJiW.png](https://i.imgur.com/vJBHJiW.png)
+![19 banner](https://github.com/0x2bc/council/assets/123887455/1b7bdde7-0f69-464d-8a36-f252ac3cd239)
 
 ## Period
 
@@ -44,7 +44,7 @@ DAO Spending:
 - Weekly Videos Growth, qty: **6080**
 - Weekly Videos Growth, %: **7.6%**
 
-![https://i.imgur.com/yOESx24.png](https://i.imgur.com/yOESx24.png)
+![19 Aug Video](https://github.com/0x2bc/council/assets/123887455/03acece5-6c47-40de-8ee7-ba954dd5322d)
 
 ### Channels
 
@@ -56,7 +56,7 @@ Provided stats below are for non-empty channels only:
 
 Notice: Since last week, we have changed the calculation method. We've applied stricter criteria, which has resulted in slightly lower numbers. Previously, we considered channels as non-empty if anything was uploaded to them, including updated profile images. Now, we only classify channels as non-empty if they contain at least one video.
 
-![https://i.imgur.com/cFA0Cbd.png](https://i.imgur.com/cFA0Cbd.png)
+![19 Aug Channel](https://github.com/0x2bc/council/assets/123887455/57312ab9-1d86-45d9-85f6-ece0041ecd07)
 
 ### Media Storage
 
@@ -64,7 +64,7 @@ Notice: Since last week, we have changed the calculation method. We've applied s
 - Weekly Storage Used Growth: **260.5 GB**
 - Weekly Storage Used Growth, %: **1.9%**
 
-![https://i.imgur.com/NDhpOEF.png](https://i.imgur.com/NDhpOEF.png)
+![19 Aug Media](https://github.com/0x2bc/council/assets/123887455/f2d11eb2-dff5-468b-85a1-19c7446b051a)
 
 ### Video NFTs
 
@@ -73,7 +73,7 @@ Notice: Since last week, we have changed the calculation method. We've applied s
 - Weekly NFT Growth, %: **0.2%**
 - Weekly NFT sold: **5**
 
-![https://i.imgur.com/mLwarfq.png](https://i.imgur.com/mLwarfq.png)
+![19 Aug NFT](https://github.com/0x2bc/council/assets/123887455/8cf2fc52-ec29-43f0-af29-1ee82fa35026)
 
 # **Membership**
 
@@ -81,7 +81,7 @@ Notice: Since last week, we have changed the calculation method. We've applied s
 - Weekly Membership Accounts Growth: **520**
 - Weekly Membership Accounts Growth, %: **5.6%**
 
-![https://i.imgur.com/DK2jR4S.png](https://i.imgur.com/DK2jR4S.png)
+![19 Aug Membership](https://github.com/0x2bc/council/assets/123887455/5a0e797a-04d7-4a2b-b272-796f72ac1aa6)
 
 # YouTube Partner Program
 
