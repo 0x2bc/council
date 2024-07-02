@@ -41,6 +41,12 @@ tokens = {
     'Livepeer': {'cg_id': 'livepeer', 'ticker': 'LPT', 'cmc_id': 3640}
 }
 
+# Order of tokens to be included in the output
+token_order = [
+    'JOY', 'THETA', 'CHZ', 'LPT', 'AUDIO', 'DESO', 'CYBER', 'HIVE', 'LMWR',
+    'STEEM', 'MBL', 'COS', 'RLY', 'XCAD', 'GFT', 'LIKE', 'XTM', 'WWY', 'LBC'
+]
+
 # Function to fetch historical data from CoinGecko
 def fetch_historical_data_cg(token_id, date):
     url = f"https://api.coingecko.com/api/v3/coins/{token_id}/history"
@@ -73,78 +79,93 @@ def fetch_data_cmc(cmc_id):
         print(f"Error fetching data from CoinMarketCap for id {cmc_id}: {response.status_code} - {response.text}")
         return None
 
-# Date for July 1, 2024
-date = '01-07-2024'
+# Dates to fetch
+dates = ['01-04-2024', '01-07-2024']
 
 # Current date for comparison
 current_date = datetime.now()
 
 # Fetch data and store in a dictionary
-data = {token_name: {} for token_name in tokens}
+data = {token_name: {date: {} for date in dates} for token_name in tokens}
 cmc_data = {token_name: {} for token_name in tokens}
 
 for token_name, details in tokens.items():
-    print(f"Fetching data for {token_name} ({details['cg_id']}):")
-    date_obj = datetime.strptime(date, '%d-%m-%Y')
-    if date_obj <= current_date:
-        print(f"  Fetching price for {date}...")
-        historical_data = fetch_historical_data_cg(details['cg_id'], date)
-        if historical_data:
-            market_data = historical_data.get('market_data', {})
-            current_price = market_data.get('current_price', {}).get('usd', 'N/A')
-            if current_price == 0:
+    for date in dates:
+        print(f"Fetching data for {token_name} ({details['cg_id']}) on {date}:")
+        date_obj = datetime.strptime(date, '%d-%m-%Y')
+        if date_obj <= current_date:
+            print(f"  Fetching price for {date}...")
+            historical_data = fetch_historical_data_cg(details['cg_id'], date)
+            if historical_data:
+                market_data = historical_data.get('market_data', {})
+                current_price = market_data.get('current_price', {}).get('usd', 'N/A')
+                circulating_mcap = market_data.get('market_cap', {}).get('usd', 'N/A')
+                if current_price == 0:
+                    current_price = 'N/A'
+                if circulating_mcap == 0:
+                    circulating_mcap = 'N/A'
+            else:
                 current_price = 'N/A'
+                circulating_mcap = 'N/A'
+            data[token_name][date] = {'price': current_price, 'circulating_mcap': circulating_mcap}
+            time.sleep(5)  # Add a delay of 5 seconds between requests
+        
+        # Fetching CoinMarketCap data
+        print(f"  Fetching market cap data for {details['ticker']} from CoinMarketCap...")
+        cmc_info = fetch_data_cmc(details['cmc_id'])
+        if cmc_info and str(details['cmc_id']) in cmc_info['data']:
+            cmc_info = cmc_info['data'][str(details['cmc_id'])]
+            cmc_data[token_name] = {
+                'fully_diluted_mcap': cmc_info['quote']['USD'].get('fully_diluted_market_cap', 'N/A') / 1_000_000,
+                'current_circulation_mcap': cmc_info['quote']['USD'].get('market_cap', 'N/A') / 1_000_000
+            }
         else:
-            current_price = 'N/A'
-        data[token_name][date] = current_price
+            cmc_data[token_name] = {
+                'fully_diluted_mcap': 'N/A',
+                'current_circulation_mcap': 'N/A'
+            }
         time.sleep(5)  # Add a delay of 5 seconds between requests
-    
-    # Fetching CoinMarketCap data
-    print(f"  Fetching market cap data for {details['ticker']} from CoinMarketCap...")
-    cmc_info = fetch_data_cmc(details['cmc_id'])
-    if cmc_info and str(details['cmc_id']) in cmc_info['data']:
-        cmc_info = cmc_info['data'][str(details['cmc_id'])]
-        cmc_data[token_name] = {
-            'fully_diluted_mcap': cmc_info['quote']['USD'].get('fully_diluted_market_cap', 'N/A') / 1_000_000,
-            'current_circulation_mcap': cmc_info['quote']['USD'].get('market_cap', 'N/A') / 1_000_000
-        }
-    else:
-        cmc_data[token_name] = {
-            'fully_diluted_mcap': 'N/A',
-            'current_circulation_mcap': 'N/A'
-        }
-    time.sleep(5)  # Add a delay of 5 seconds between requests
 
 # Calculate averages
-averages = {date: []}
-for token_name, prices in data.items():
-    price = prices.get(date, 'N/A')
-    if price != 'N/A':
-        try:
-            averages[date].append(float(price))
-        except ValueError:
-            pass
+averages = {date: [] for date in dates}
+for token_name, date_data in data.items():
+    for date, values in date_data.items():
+        price = values.get('price', 'N/A')
+        if price != 'N/A':
+            try:
+                averages[date].append(float(price))
+            except ValueError:
+                pass
 
 # Print data in CSV format
-header = ["Token Name", "Ticker", "Fully Diluted Mcap (M)", "Current Circulation Mcap (M)", date]
+header = ["Token Name", "Ticker", "Fully Diluted Mcap (M)", "Current Circulation Mcap (M)", "Price (01-04-2024)", "Circulating Mcap (01-04-2024)", "Price (01-07-2024)", "Circulating Mcap (01-07-2024)"]
 print(",".join(header))
 
-for token_name, prices in data.items():
-    row = [
-        token_name,
-        tokens[token_name]['ticker'],
-        f"{cmc_data[token_name]['fully_diluted_mcap']:.2f}" if cmc_data[token_name]['fully_diluted_mcap'] != 'N/A' else 'N/A',
-        f"{cmc_data[token_name]['current_circulation_mcap']:.2f}" if cmc_data[token_name]['current_circulation_mcap'] != 'N/A' else 'N/A',
-        str(prices.get(date, 'N/A'))
-    ]
-    print(",".join(row))
+# Sort data according to the token order
+sorted_data = sorted(data.items(), key=lambda x: token_order.index(tokens[x[0]]['ticker']) if tokens[x[0]]['ticker'] in token_order else float('inf'))
+
+for token_name, date_data in sorted_data:
+    if tokens[token_name]['ticker'] in token_order:
+        row = [
+            token_name,
+            tokens[token_name]['ticker'],
+            f"{cmc_data[token_name]['fully_diluted_mcap']:.2f}" if cmc_data[token_name]['fully_diluted_mcap'] != 'N/A' else 'N/A',
+            f"{cmc_data[token_name]['current_circulation_mcap']:.2f}" if cmc_data[token_name]['current_circulation_mcap'] != 'N/A' else 'N/A',
+            str(date_data['01-04-2024'].get('price', 'N/A')),
+            str(date_data['01-04-2024'].get('circulating_mcap', 'N/A')),
+            str(date_data['01-07-2024'].get('price', 'N/A')),
+            str(date_data['01-07-2024'].get('circulating_mcap', 'N/A'))
+        ]
+        print(",".join(row))
 
 # Print averages
-average_row = ["Average", "", "", ""]
-if averages[date]:
-    average_value = sum(averages[date]) / len(averages[date])
-    average_row.append(f"{average_value:.6f}")
-else:
-    average_row.append("N/A")
-print(",".join(average_row))
+for date in dates:
+    average_row = ["Average", "", "", ""]
+    if averages[date]:
+        average_value = sum(averages[date]) / len(averages[date])
+        average_row.append(f"{average_value:.6f}")
+    else:
+        average_row.append("N/A")
+    print(",".join(average_row))
+
 ```
