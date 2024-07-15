@@ -18,7 +18,7 @@
             },
             {
               "icon": "play",
-              "title": "Content Recommendations - v2",
+              "title": "Content Recommendations v2",
               "Content": "Surfacing personalized content for a consumer is a key requirement for any content platform. Key product experiences like home screens, feeds and related content, all depend on having modern Machine learning based content recommendation system. Currently Orion has no infrastructure to produce or serve such recommendations, and app recommendations are being done entirely client-side. The goal of this milestone is to ship the first recommendation capability in Orion, to make Joystream apps much more."
             },
             {
@@ -33,7 +33,7 @@
             },
             {
                 "icon": "wallet",
-                "title": "New Wallets - v2",
+                "title": "New Wallets v2",
                 "Content": "Implementations with external wallet providers such as hardware & software wallet providers (Tangem, Ledger)."
             },
             {
@@ -69,7 +69,7 @@
             },
             {
                 "icon": "community",
-                "title": "Video Communities - v1",
+                "title": "Video Communities v1",
                 "Content": "Launching a new application for your community using Atlas currently requires a lot of deep technical knowledge. You have to obtain hosting and a domain, start the service, configure it, and then maintain it. This is quite difficult. The goal of this milestone is to create the Reddit to phpBB, in terms of the experience of a prospective community creator and moderator. One requires substantially more work and skill. By instead offering a fully hosted and simple point-and-click feature, we can make it orders of magnitude easier to allow third parties to invite their communities to use Joystream."
             },
             {
