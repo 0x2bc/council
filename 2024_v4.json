@@ -34,7 +34,7 @@
             {
                 "icon": "wallet",
                 "title": "New Wallets - v2",
-                "Content": "Implementations with external wallet providers such as hardware & software wallet providers (Tangem, Ledger)"
+                "Content": "Implementations with external wallet providers such as hardware & software wallet providers (Tangem, Ledger)."
             },
             {
                 "icon": "content",
