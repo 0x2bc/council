@@ -68,11 +68,6 @@
               "Content": "Outreach & discussions with additional cryptocurrency exchanges to provide users with more options for trading the JOY token."
             },
             {
-                "icon": "exchange",
-                "title": "New Exchange Listings",
-                "Content": "Outreach & discussions with additional cryptocurrency exchanges to provide users with more options for trading the JOY token."
-            },
-            {
                 "icon": "community",
                 "title": "Video Communities - v1",
                 "Content": "Launching a new application for your community using Atlas currently requires a lot of deep technical knowledge. You have to obtain hosting and a domain, start the service, configure it, and then maintain it. This is quite difficult. The goal of this milestone is to create the Reddit to phpBB, in terms of the experience of a prospective community creator and moderator. One requires substantially more work and skill. By instead offering a fully hosted and simple point-and-click feature, we can make it orders of magnitude easier to allow third parties to invite their communities to use Joystream."
