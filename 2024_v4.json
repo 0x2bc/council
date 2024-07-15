@@ -19,7 +19,7 @@
             {
               "icon": "play",
               "title": "Content Recommendations - v2",
-              "Content": "Surfacing personalized content for a consumer is a key requirement for any content platform. Key product experiences like home screens, feeds and related content, all depend on having modern Machine learning based content recommendation system. Currently Orion has no infrastructure to produce or serve such recommendations, and app recommendations are being done entirely client-side. The goal of this milestone is to ship the first recommendation capability in Orion, to make Joystream apps much more"
+              "Content": "Surfacing personalized content for a consumer is a key requirement for any content platform. Key product experiences like home screens, feeds and related content, all depend on having modern Machine learning based content recommendation system. Currently Orion has no infrastructure to produce or serve such recommendations, and app recommendations are being done entirely client-side. The goal of this milestone is to ship the first recommendation capability in Orion, to make Joystream apps much more."
             },
             {
               "icon": "smartphone",
