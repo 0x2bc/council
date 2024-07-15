@@ -110,7 +110,7 @@
             },
             {
                 "icon": "bounty",
-                "title": "Bounties Module",
+                "title": "Bounties v2",
                 "Content": "Development & deployment of an on-chain bounty management module that will enable bounties to be posted and crowdfunded by users including oracle selection and reward splitting. The council will also have the unique feature of being able to fund bounties that it selects for being of benefit to the platform via the council treasury."
             },
             {
