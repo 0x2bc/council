@@ -49,7 +49,7 @@
             {
                 "icon": "dollar-sign",
                 "title": "Fiat on-ramp",
-                "Content": "Starting with Joystream is easy with an initial token balance for transaction fees. However, features like purchasing NFTs or Creator Tokens require more tokens. To make this seamless, we're introducing an in-app fiat on-ramp for Atlas app users. This allows users to buy JOY directly and use it within the ecosystem."
+                "Content": "Starting with Joystream is easy with an initial token balance for transaction fees. However, features like purchasing NFTs or CRT require more JOY tokens. To make this seamless, we're introducing an in-app fiat on-ramp for Atlas app users. This allows users to buy JOY directly and use it within the ecosystem."
             },
             {
                 "icon": "channelPayout",
