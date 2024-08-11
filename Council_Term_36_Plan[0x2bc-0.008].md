@@ -162,7 +162,7 @@ Areas of focus for council members to work on this term:
 
 ## **5. Budget**
 
-EMA30 price: **0.010**
+EMA30 price: **0.008**
 
 **Council budget**
 
