@@ -175,7 +175,7 @@ EMA30 price: **0.010**
 
 ### **Inflation**
 
-- Planned inflation for the term: 0.612%
+- Planned inflation for the term: 0.700%	
 - Inflation last 12 months:
 
 | Term | Minted, MJOY | Inflation | Term length, days |
