@@ -100,32 +100,18 @@ Areas of focus for council members to work on this term:
 
 - Response to marketing proposals
 
-**Extra** 
-
-- Propose ways to reduce WG budget, include actions and savings. Explain the impact on Q3 OKR achievement
-
 ### Builders WG
 
+- ~~Estimate costs/hours to update the QN schemata to the new bounties pallet. On top of that what's the effort to adjust the existing pioneer integration (costs/hours)?~~
 - Ship Argo bridge, monitor for any fixes necessary.
 - Set up Arbitrage bot
 - Do initial research on SDK and documentation improvements for running Atlas instance.
 - ~~Do initial research for PWA version of Gleev~~
 
-**Extra** 
-
-- Propose ways to reduce WG budget, include actions and savings. Explain the impact on Q3 OKR achievement
-
 ### **Content WG**
 
 - Execute initiatives linked to OKRs - As per backlog: On ramp release, CRT notifications improvement
 - Launch and process Gleev User Feedback Survey
-
-**Extra** 
-
-- Propose ways to reduce WG budget, include actions and savings. Explain the impact on Q3 OKR achievement
-
-> 0x2bc: Since the WG lead will have limited availability this term, the final payment will be made on a per-contribution basis, and not all tasks from the list may be completed
-> 
 
 ### Storage WG
 
@@ -134,19 +120,11 @@ Areas of focus for council members to work on this term:
 - Maintain percentage of lost objects at 0%.
 - Maintain a storage system availability of 100%
 
-**Extra** 
-
-- Propose ways to reduce WG budget, include actions and savings. Explain the impact on Q3 OKR achievement
-
 ### Distribution WG
 
 - Provide quality values for bandwidth and latency accross geographical regions with sufficient traffic, keeping the cost of operation minimal, [according to Q3 OKRs](https://pioneer.joyutils.org/#/proposals/preview/934)
-- Review and prepare tutorial for using Cloudflare Proxy
+- Review the idea ~~and prepare tutorial~~ for using Cloudflare Proxy
 - Misc support
-
-**Extra** 
-
-- Propose ways to reduce WG budget, include actions and savings. Explain the impact on Q3 OKR achievement
 
 ### HR WG
 
@@ -156,9 +134,6 @@ Areas of focus for council members to work on this term:
 - Weekly Summary: Collect last week's data and put together a report.
 - Moderate DAO Daily Standup and main governance meetings.
 
-**Extra** 
-
-- Propose ways to reduce WG budget, include actions and savings. Explain the impact on Q3 OKR achievement
 
 ## **5. Budget**
 
@@ -270,3 +245,13 @@ Comment: **YPP rewards most likely won’t be that high
 | Membership | 0 | 0 | 0 | 0 |
 | Marketing | 2,955 | 10,240 | 11,518 | 1,677 |
 | Total | 5,621 | 34,320 | 38,026 | 1,915 |
+
+
+### Comment on CWG and BWG refill
+
+The budget caps the CWG refill at 450,000 JOY and the BWG refill at 1,520,000 JOY. However, we plan to make **a smaller initial refill**, which should be sufficient, for the following reasons.
+
+Please note the following points:
+
+- **BWG Budget Adjustment**: The RWA task for BWG will not be carried out this term, reducing the "Dev salaries" budget from 375,000 JOY to approximately 150,000 JOY. Therefore, the BWG budget will be adjusted as follows: **1,520,000 JOY - (375,000 JOY - 150,000 JOY) = 1,295,000 JOY.** A higher allocation may be considered if the Arbitrage Bot task requires more time than anticipated.
+- **CWG Budget Adjustment**: The CWG lead will have limited availability this term and will receive their salary in fully liquid form, with a 0.6 coefficient. It’s recommended to allocate 150,000 JOY tokens for the lead's salary. The CWG budget will be adjusted as follows: **450,000 JOY - (225,000 JOY - 150,000 JOY) = 370,000 JOY.** If additional work hours are reported, a separate refill may be made.
