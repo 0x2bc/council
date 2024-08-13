@@ -63,7 +63,7 @@ Areas of focus for council members to work on this term:
 - [Social media content management](https://www.notion.so/Social-media-content-management-3a0d34684838453a98d22e390ca17c35?pvs=21) → [KR1.3]
     - hire content/twitter manager
     - start hosting weekly Spaces on JoystreamDAO & join one external X spaces → [KR1.5]
-- ~~Partner with one high-profile youtuber driving ypp sign-ups → [KR1.8]~~
+- Partner with one high-profile youtuber driving ypp sign-ups → [KR1.8]
 
 **Ongoing Activities**
 
