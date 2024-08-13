@@ -70,7 +70,7 @@ Areas of focus for council members to work on this term:
 - Outreach to Web3 projects: Invite them to Gleev on special terms → [KR1.6]
 - Continue research & Joystream addition to niche overview reports  → [KR1.4]
 - [CMC communities campaign](https://www.notion.so/CMC-Communities-Campaign-5724846553944bd58fab9c647717b07d?pvs=21)
-- [Ambassador program](https://www.notion.so/Ambassador-Program-9624e4d2c766463a8ae8bf1cfe9792c7?pvs=21) promotion and management → [**KR1.1, KR1.2**]
+- [Ambassador program](https://www.notion.so/Ambassador-Program-9624e4d2c766463a8ae8bf1cfe9792c7?pvs=21) promotion and management → [KR1.1, KR1.2]
 
 **Assist Argo Bridge Launch** 
 
@@ -239,5 +239,5 @@ The budget caps the CWG refill at 450,000 JOY and the BWG refill at 1,520,000 JO
 
 Please note the following points:
 
-- **BWG Budget Adjustment**: The RWA task for BWG will not be carried out this term, reducing the "Dev salaries" budget from 375,000 JOY to approximately 150,000 JOY. Therefore, the BWG budget will be adjusted as follows: **1,520,000 JOY - (375,000 JOY - 150,000 JOY) = 1,295,000 JOY.** A higher allocation may be considered if the Arbitrage Bot task requires more time than anticipated.
-- **CWG Budget Adjustment**: The CWG lead will have limited availability this term and will receive their salary in fully liquid form, with a 0.6 coefficient. It’s recommended to allocate 150,000 JOY tokens for the lead's salary. The CWG budget will be adjusted as follows: **450,000 JOY - (225,000 JOY - 150,000 JOY) = 370,000 JOY.** If additional work hours are reported, a separate refill may be made.
+- **BWG Budget Adjustment**: The RWA task for BWG will not be carried out this term, reducing the "Dev salaries" budget from 375,000 JOY to approximately 150,000 JOY. Therefore, the BWG budget will be adjusted as follows: 1,520,000 JOY - (375,000 JOY - 150,000 JOY) = 1,295,000 JOY. A higher allocation may be considered if the Arbitrage Bot task requires more time than anticipated.
+- **CWG Budget Adjustment**: The CWG lead will have limited availability this term and will receive their salary in fully liquid form, with a 0.6 coefficient. It’s recommended to allocate 150,000 JOY tokens for the lead's salary. The CWG budget will be adjusted as follows: 450,000 JOY - (225,000 JOY - 150,000 JOY) = 370,000 JOY. If additional work hours are reported, a separate refill may be made.
