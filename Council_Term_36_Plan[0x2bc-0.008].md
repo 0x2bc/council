@@ -63,9 +63,6 @@ Areas of focus for council members to work on this term:
 - [Social media content management](https://www.notion.so/Social-media-content-management-3a0d34684838453a98d22e390ca17c35?pvs=21) → [KR1.3]
     - hire content/twitter manager
     - start hosting weekly Spaces on JoystreamDAO & join one external X spaces → [KR1.5]
-    
-    > 0x2bc: Despite the DAO budget cuts, hiring Twitter and Content managers is `essential` and shouldn't be delayed or affected by the budget reductions
-    > 
 - Partner with one high-profile youtuber driving ypp sign-ups → [KR1.8]
 
 **Ongoing Activities**
@@ -78,9 +75,6 @@ Areas of focus for council members to work on this term:
 **Assist Argo Bridge Launch** 
 
 - Promote Joystream-BASE bridge → [KR1.7]
-    
-    > 0x2bc: making simple announcement is enough, at least, until we have proper arbitrage bot is rolled out
-    > 
 - List wrapped JOY token on various Web3 catalogues including Coingecko, CMC, DropsTab, etc → [KR1.7]
 
 **Planning and Coordination**
@@ -88,13 +82,7 @@ Areas of focus for council members to work on this term:
 - Create public content calendar to coordinate efforts with Content/HR/Builders WG
 - [MWG operations public notion board](https://www.notion.so/20ac1adc2a18455183d55f028220f0e5?pvs=21) update
 - [Marketing plan](https://pioneerapp.xyz/#/proposals/preview/108) update
-    
-    > 0x2bc: lets add this task as well;
-    > 
 - Semi-annual DAO reports: determine specific dates and formats for the report
-    
-    > 0x2bc: this is a new task
-    > 
 
 **Other**
 
@@ -102,7 +90,6 @@ Areas of focus for council members to work on this term:
 
 ### Builders WG
 
-- ~~Estimate costs/hours to update the QN schemata to the new bounties pallet. On top of that what's the effort to adjust the existing pioneer integration (costs/hours)?~~
 - Ship Argo bridge, monitor for any fixes necessary.
 - Set up Arbitrage bot
 - Do initial research on SDK and documentation improvements for running Atlas instance.
@@ -133,7 +120,6 @@ Areas of focus for council members to work on this term:
 - Faucet Management: Keep an eye on the Faucet address for fund replication and set up automated balance alerts on Discord.
 - Weekly Summary: Collect last week's data and put together a report.
 - Moderate DAO Daily Standup and main governance meetings.
-
 
 ## **5. Budget**
 
